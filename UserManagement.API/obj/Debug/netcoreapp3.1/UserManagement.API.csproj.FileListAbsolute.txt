@@ -66,7 +66,6 @@ C:\Users\Flavio\source\repos\Confitec.UserManagement\UserManagement.API\obj\Debu
 C:\Users\Flavio\source\repos\Confitec.UserManagement\UserManagement.API\obj\Debug\netcoreapp3.1\UserManagement.API.genruntimeconfig.cache
 C:\Users\Flavio\Documents\GitHub\Confitec.UserManagement-BackEnd\UserManagement.API\bin\Debug\netcoreapp3.1\appsettings.Development.json
 C:\Users\Flavio\Documents\GitHub\Confitec.UserManagement-BackEnd\UserManagement.API\bin\Debug\netcoreapp3.1\appsettings.json
-C:\Users\Flavio\Documents\GitHub\Confitec.UserManagement-BackEnd\UserManagement.API\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
 C:\Users\Flavio\Documents\GitHub\Confitec.UserManagement-BackEnd\UserManagement.API\bin\Debug\netcoreapp3.1\UserManagement.API.exe
 C:\Users\Flavio\Documents\GitHub\Confitec.UserManagement-BackEnd\UserManagement.API\bin\Debug\netcoreapp3.1\UserManagement.API.deps.json
 C:\Users\Flavio\Documents\GitHub\Confitec.UserManagement-BackEnd\UserManagement.API\bin\Debug\netcoreapp3.1\UserManagement.API.runtimeconfig.json
@@ -130,3 +129,4 @@ C:\Users\Flavio\Documents\GitHub\Confitec.UserManagement-BackEnd\UserManagement.
 C:\Users\Flavio\Documents\GitHub\Confitec.UserManagement-BackEnd\UserManagement.API\obj\Debug\netcoreapp3.1\UserManagement.API.dll
 C:\Users\Flavio\Documents\GitHub\Confitec.UserManagement-BackEnd\UserManagement.API\obj\Debug\netcoreapp3.1\UserManagement.API.pdb
 C:\Users\Flavio\Documents\GitHub\Confitec.UserManagement-BackEnd\UserManagement.API\obj\Debug\netcoreapp3.1\UserManagement.API.genruntimeconfig.cache
+C:\Users\Flavio\Documents\GitHub\Confitec.UserManagement-BackEnd\UserManagement.API\obj\Debug\netcoreapp3.1\scopedcss\bundle\UserManagement.API.styles.css
